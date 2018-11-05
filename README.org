@@ -1,0 +1,7 @@
+** Usage
+#+BEGIN_EXAMPLE
+$ cargo run
+#+END_EXAMPLE
+
+Use together with [[https://github.com/jorenvo/p2p_client][p2p_client]]. See [[https://jorenvo.github.io/notes/nat_traversal/][NAT traversal]] for a high level
+description of how this works.
